@@ -10,4 +10,4 @@ ASR Data: https://www.kaggle.com/competitions/11-785-s22-hw4p2/data
 
 
 
-The ASR attention file uses 
+The ASR attention model has bidirectional LSTM encoder and attention mechanism which passes the context to the decoder. The model is based on the one described in Listen, Attend, Spell paper.
